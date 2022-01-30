@@ -1,0 +1,9 @@
+name: CoordCopy
+version: ${version}
+author: dmkng
+main: io.github.dmkng.CoordCopy.Main
+api-version: 1.13
+
+commands:
+  coordcopy:
+    aliases: [ coord, coords, coordwand ]

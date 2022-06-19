@@ -33,8 +33,6 @@ public class Main extends JavaPlugin implements Listener {
 			meta.setLore(Arrays.asList(ChatColor.GRAY + "LMB - Copy coords of something you look at", ChatColor.GRAY + "RMB - Copy your coords"));
 			WAND.setItemMeta(meta);
 		}
-
-		getCommand("coordcopy").setExecutor(this);
 		getServer().getPluginManager().registerEvents(this, this);
 	}
 

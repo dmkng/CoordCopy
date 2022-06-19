@@ -3,7 +3,8 @@ version: ${version}
 author: dmkng
 main: io.github.dmkng.CoordCopy.Main
 api-version: 1.13
-
 commands:
   coordcopy:
-    aliases: [ coord, coords, coordwand ]
+    description: Gives the CoordCopy wand.
+    permission: coordcopy.wand
+    aliases: [ coordcopywand, coord, coordwand ]

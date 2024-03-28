@@ -1,4 +1,4 @@
-Copyright (c) 2022, dmkng
+Copyright (c) 2024, dmkng
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
